@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Idazgit&layout=compact&theme=dark
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldazgit&layout=compact&theme=dark)
 
 
 <div align="right">
