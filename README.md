@@ -29,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idazgit&layout=compact&theme=dark)
 
 <div align="right">
    <img src="https://github.com/user-attachments/assets/7f3c7d3e-6841-4c79-ab54-032a9811d2d1" alt="Coding Work From Home GIF" alt="gifdeveloppeur" width="400">
