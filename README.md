@@ -5,7 +5,6 @@
 - 👨‍💻 I’m looking to collaborate on learning new langage  
 - 🤔 I’m looking for help with js / react  
 - 💬 Ask me about HTML CSS Figma  
-- 📫 How to reach me: tristanctexcole@gmail.com  
 
 
 ## 🌐 Socials:
