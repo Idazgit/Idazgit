@@ -28,7 +28,7 @@
 </p>
 
 <div align="right">
-  <img src="https://github.com/user-attachment/assets/7f3c7d3e-6841-4c79-ab54-032a9811d2d1" alt="Coding Work From Home GIF" width="400">
+   <img src="https://github.com/user-attachments/assets/7f3c7d3e-6841-4c79-ab54-032a9811d2d1" alt="Coding Work From Home GIF" alt="gifdeveloppeur" width="400">
 </div>
 
   
